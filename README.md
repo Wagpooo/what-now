@@ -1,2 +1,2 @@
-# what-now
-what is up doc
+# what-now huh?
+what's up doc
